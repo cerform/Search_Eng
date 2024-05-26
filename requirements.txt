@@ -1,0 +1,8 @@
+flask
+flask-cors
+werkzeug
+python-docx
+python-pptx
+PyPDF2
+nbformat
+nbconvert
